@@ -1,0 +1,70 @@
+institute_code,institute_name,city,course_code,course_name,category,closing_rank,closing_percentile
+01002,Government College of Engineering,Amravati,0100219110,Civil Engineering,GOPENS,34240,88.5013511
+01002,Government College of Engineering,Amravati,0100224210,Computer Science and Engineering,GOPENS,7872,97.3911937
+01002,Government College of Engineering,Amravati,0100224610,Information Technology,GOPENS,12001,96.0264086
+01002,Government College of Engineering,Amravati,0100229310,Electrical Engineering,GOPENS,28736,90.3847828
+01002,Government College of Engineering,Amravati,0100237210,Electronics and Telecommunication Engg,GOPENS,17552,94.1713006
+01002,Government College of Engineering,Amravati,0100246610,Instrumentation Engineering,GOPENS,40780,86.1227045
+01002,Government College of Engineering,Amravati,0100261210,Mechanical Engineering,GOPENS,37888,87.0844527
+01012,Government College of Engineering,Yavatmal,0101219110,Civil Engineering,GOPENH,82302,69.8140377
+01012,Government College of Engineering,Yavatmal,0101224510,Computer Engineering,GOPENH,37750,87.1298889
+01012,Government College of Engineering,Yavatmal,0101229310,Electrical Engineering,GOPENH,72382,74.1162962
+01012,Government College of Engineering,Yavatmal,0101237210,Electronics and Telecommunication Engg,GOPENH,60100,79.0646435
+01012,Government College of Engineering,Yavatmal,0101261210,Mechanical Engineering,GOPENH,90328,66.1855163
+01101,Shri Sant Gajanan Maharaj College of Engineering,Shegaon,0110124210,Computer Science and Engineering,GOPENH,18078,93.9958778
+01101,Shri Sant Gajanan Maharaj College of Engineering,Shegaon,0110124610,Information Technology,GOPENH,21234,92.9153295
+01101,Shri Sant Gajanan Maharaj College of Engineering,Shegaon,0110135610,Electrical Engg [Electronics and Power],GOPENH,42998,85.3422371
+01101,Shri Sant Gajanan Maharaj College of Engineering,Shegaon,0110137210,Electronics and Telecommunication Engg,GOPENH,30973,89.4907774
+01101,Shri Sant Gajanan Maharaj College of Engineering,Shegaon,0110161210,Mechanical Engineering,GOPENH,57808,79.9360013
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301219110,Civil Engineering,GOPENS,4902,98.3309085
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301224510,Computer Engineering,GOPENS,101,99.9641545
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301224610,Information Technology,GOPENS,207,99.9197093
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301229310,Electrical Engineering,GOPENS,1700,99.3618088
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301237210,Electronics and Telecommunication Engg,GOPENS,653,99.7239669
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301237610,Electronics Engineering,GOPENS,1076,99.5716133
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301261210,Mechanical Engineering,GOPENS,2105,99.2311848
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301262610,Production Engineering[Sandwich],GOPENS,4869,98.3335411
+03012,Veermata Jijabai Technological Institute(VJTI),Mumbai,0301289610,Textile Technology,GOPENS,10331,96.5964131
+03146,Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Mumbai,0314624510,Computer Engineering,GOPENH,32969,88.7813022
+03146,Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Mumbai,0314624610,Information Technology,GOPENH,38947,86.7801974
+03146,Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Mumbai,0314629310,Electrical Engineering,GOPENH,93073,65.2878345
+03146,Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Mumbai,0314661210,Mechanical Engineering,GOPENH, 91343,65.8812284
+03148,Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College,Mumbai,0314824510,Computer Engineering,GOPENS,18305,93.9032684
+03148,Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College,Mumbai,0314824610,Information Technology,GOPENS,22770,92.4273158
+03148,Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College,Mumbai,0314825210,Cyber Security,GOPENS,28460,90.4350482
+06270,Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering,Satara,0627024210,Computer Science and Engineering,GOPENH,55697,80.6344635
+06270,Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering,Satara,0627037210,Electronics and Telecommunication Engg,GOPENH,71553,74.4421543
+06270,Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering,Satara,0627019110,Civil Engineering,GOPENH,95970,63.5258359
+06270,Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering,Satara,0627061210,Mechanical Engineering,GOPENH,119247,51.2170385
+06270,Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering,Satara,0627099510,Artificial Intelligence and Data Science,GOPENH,64837,76.9332320
+06766,Phaltan Education Society's College of Engineering,Satara,0676624510,Computer Engineering,GOPENH,130671,44.4778985
+06766,Phaltan Education Society's College of Engineering,Satara,0676637210,Electronics and Telecommunication Engg,GOPENH,179420,0.3233107
+06766,Phaltan Education Society's College of Engineering,Satara,0676661210,Mechanical Engineering,GOPENH,163047,19.1366185
+06766,Phaltan Education Society's College of Engineering,Satara,0676699510,Artificial Intelligence and Data Science,GOPENH,93416,65.2298851
+06007,Walchand College of Engineering,Sangli,0600719110,Civil Engineering,GOPENS,9943,96.7460416
+06007,Walchand College of Engineering,Sangli,0600721970U,Robotics and Automation,GOPENS,5452,98.1506878
+06007,Walchand College of Engineering,Sangli,0600724210,Computer Science and Engineering,GOPENS,1504,99.4300008
+06007,Walchand College of Engineering,Sangli,0600724270U,Computer Science and Engineering,GOPENS,2588,99.0749225
+06007,Walchand College of Engineering,Sangli,0600724610,Information Technology,GOPENS,2336,99.1563130
+06007,Walchand College of Engineering,Sangli,0600724670U,Information Technology,GOPENS,3181,98.8801555
+06007,Walchand College of Engineering,Sangli,0600729310,Electrical Engineering,GOPENS,6077,97.9630015
+06007,Walchand College of Engineering,Sangli,0600737610,Electronics Engineering,GOPENS,3654,98.7367021
+06007,Walchand College of Engineering,Sangli,0600761210,Mechanical Engineering,GOPENS,6789,97.7148490
+06007,Walchand College of Engineering,Sangli,0600792170U,Artificial Intelligence and Machine Learning,GOPENS,3723,98.7117151
+06762,Nanasaheb Mahadik College of Engineering,Sangli,0676219110,Civil Engineering,GOPENH,170796,11.4731237
+06762,Nanasaheb Mahadik College of Engineering,Sangli,0676224210,Computer Science and Engineering,GOPENH,99442,62.7216425
+06762,Nanasaheb Mahadik College of Engineering,Sangli,0676229310,Electrical Engineering,GOPENH,117309,52.5184688
+06762,Nanasaheb Mahadik College of Engineering,Sangli,0676237210,Electronics and Telecommunication Engg,GOPENH,155834,25.6482713
+06762,Nanasaheb Mahadik College of Engineering,Sangli,0676261210,Mechanical Engineering,GOPENH,173929,7.8241614
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632019110,Civil Engineering,GOPENH,179004,0.9572868
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632024510,Computer Engineering,GOPENH,57643,79.9360013
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632029310,Electrical Engineering,GOPENH,132114,43.5298862
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632037210,Electronics and Telecommunication Engg,GOPENH,77931,71.7682877
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632037810,Electronics Engineering ( VLSI Design and Technology),GOPENH,155369,25.7846411
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632061210,Mechanical Engineering,GOPENH,170755,11.4858097
+06320,K.J.'s Educational Institute's K.J.College of Engineering & Management Research,Pune,0632092810,Electronics and Communication(Advanced Communication Technology),GOPENH,146140,33.6953839
+06822,Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research,Pune,0682219110,Civil Engineering,GOPENH,42780,85.3426422
+06822,Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research,Pune,0682224510,Computer Engineering,GOPENH,10227,96.6084697
+06822,Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research,Pune,0682224610,Information Technology,GOPENH,10791,96.4241778
+06822,Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research,Pune,0682237210,Electronics and Telecommunication Engg,GOPENH,14100,95.3445649
+06822,Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research,Pune,0682261210,Mechanical Engineering,GOPENH,21143,92.9340568
